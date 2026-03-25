@@ -1,6 +1,38 @@
 ## Hi, my name is Silver or Don't Ask, whichever you decide to choose while talking to me online.
 
-Don't ask me to change my name please, I dont like using my real name.
+Don't ask me to change my name please, I dont like using my real name. Im also extremely introverted and while I prefer to do things online, I don't mind going out as long as I dont have like 20 people behind my back constantly shouting or whatever. I prefer to listen to music 24/7, helps calm me down and I usually listen at higher volumes so I dont have any background noise.
+
+## Right now I am listening to...
+
+<p>
+  <a href="https://youtu.be/BcDES8Fjr-w" title="Watch on YouTube">
+    <img src="https://img.youtube.com/vi/BcDES8Fjr-w/0.jpg" width="250"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://youtu.be/XOxQaKAO6rU" title="Watch on YouTube">
+    <img src="https://img.youtube.com/vi/XOxQaKAO6rU/0.jpg" width="250"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://youtu.be/eOfSsFspWrQ" title="Watch on YouTube">
+    <img src="https://img.youtube.com/vi/eOfSsFspWrQ/0.jpg" width="250"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://youtu.be/MFTUgnGjPck" title="Watch on YouTube">
+    <img src="https://img.youtube.com/vi/MFTUgnGjPck/0.jpg" width="250"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://youtu.be/NeEDMz6v_Oc" title="Watch on YouTube">
+    <img src="https://img.youtube.com/vi/NeEDMz6v_Oc/0.jpg" width="250"/>
+  </a>
+</p>
 
 ## My name...
 
