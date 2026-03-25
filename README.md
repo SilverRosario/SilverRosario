@@ -2,9 +2,9 @@
 
 Don't ask me to change my name, I dont like using my real name.
 
-Don't ask is the name I use online. I use it on steam, twitter, google and all other accounts I have.
+Don't ask is the name I use online.
 
-Here are links to all of them:
+Here are links to some of my accounts:
 
 <a href="https://steamcommunity.com/id/silverdontask/">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
