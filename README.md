@@ -7,31 +7,41 @@ Don't ask me to change my name please, I dont like using my real name. Im also e
 <p>
   <a href="https://youtu.be/BcDES8Fjr-w" title="Watch on YouTube">
     <img src="https://img.youtube.com/vi/BcDES8Fjr-w/0.jpg" width="250"/>
-  </a>
+  </a><br>
+  <b>This means War</b><br>
+  Volkor X
 </p>
 
 <p>
   <a href="https://youtu.be/XOxQaKAO6rU" title="Watch on YouTube">
     <img src="https://img.youtube.com/vi/XOxQaKAO6rU/0.jpg" width="250"/>
-  </a>
+  </a><br>
+  <b>Vessels</b><br>
+  Starset
 </p>
 
 <p>
   <a href="https://youtu.be/eOfSsFspWrQ" title="Watch on YouTube">
     <img src="https://img.youtube.com/vi/eOfSsFspWrQ/0.jpg" width="250"/>
-  </a>
+  </a><br>
+  <b>Objective NPST</b><br>
+  Trazix
 </p>
 
 <p>
   <a href="https://youtu.be/MFTUgnGjPck" title="Watch on YouTube">
     <img src="https://img.youtube.com/vi/MFTUgnGjPck/0.jpg" width="250"/>
-  </a>
+  </a><br>
+  <b>Objective Rampage</b><br>
+  Trazix
 </p>
 
 <p>
   <a href="https://youtu.be/NeEDMz6v_Oc" title="Watch on YouTube">
     <img src="https://img.youtube.com/vi/NeEDMz6v_Oc/0.jpg" width="250"/>
-  </a>
+  </a><br>
+  <b>Objective Insane</b><br>
+  Trazix
 </p>
 
 ## My name...
