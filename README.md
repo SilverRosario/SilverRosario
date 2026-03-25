@@ -1,6 +1,6 @@
 ## Hi, my name is Silver or Don't Ask, whichever you decide to choose while talking to me online.
 
-Don't ask me to change my name, I dont like using my real name.
+Don't ask me to change my name please, I dont like using my real name.
 
 ## My name...
 
