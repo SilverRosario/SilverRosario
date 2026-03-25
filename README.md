@@ -2,7 +2,7 @@
 
 Don't ask me to change my name, I dont like using my real name.
 
-Don't ask is the name I use online.
+Don't ask and Silver are the names I use online.
 
 Here are links to some of my accounts:
 
