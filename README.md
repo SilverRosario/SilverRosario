@@ -1,18 +1,19 @@
-## Hi there 👋
+## Hi
 
 Don't ask me to change my name, I dont like using my real name.
 
-<!--
-**SilverDontAsk/SilverDontAsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Don't ask is the name I use online. I use it on steam, twitter, google and all other accounts I have.
 
-Here are some ideas to get you started:
+Here are links to all of them:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://steamcommunity.com/id/silverdontask/">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
+<br><br>
+<a href="https://www.youtube.com/@silverdontask2698">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<br><br>
+<a href="https://x.com/SilverDontAsk" title="This should honestly still be called Twitter">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
